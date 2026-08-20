@@ -1,0 +1,5 @@
+s=input("Enter the Sentence :")
+words=s.split()
+print(f"The No. of words in given sentence are :{len(words)}")
+print(s.upper())
+print(s.replace("easy","powerful"))

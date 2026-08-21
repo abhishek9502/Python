@@ -1,0 +1,6 @@
+a=int(input("Enter number a :"))
+b=int(input("Enter number b :"))
+print(f"Sum of a and b = {a+b}")
+print(f"Product of a and b = {a*b}")
+print(f"Difference b/w a and b = {a-b}")
+print(f"Division of a and b = {a/b}")
